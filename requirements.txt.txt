@@ -1,5 +1,5 @@
-1.matplotlib
-2.strealit
-3.pandas
-4.numpy
-5.statsmodels
+matplotlib
+strealit
+pandas
+numpy
+statsmodels
